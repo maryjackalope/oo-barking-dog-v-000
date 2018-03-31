@@ -14,4 +14,3 @@ class Dog
 
 end #Dog
 
-dog.bark
