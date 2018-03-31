@@ -11,5 +11,7 @@ class Dog
   def bark
     puts "Woof!"
   end 
-  
+
 end #Dog
+
+dog.bark
